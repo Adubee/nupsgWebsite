@@ -1,0 +1,214 @@
+@font-face {
+	font-family: "Flanella";
+	src: url(./fonts/Flanella.ttf);
+}
+@font-face {
+	font-family: "PolySansBulkyWide";
+	src: url(./fonts/PolySansBulkyWide.ttf);
+}
+@font-face {
+	font-family: "PolySansBulky";
+	src: url(./fonts/PolySansBulky.ttf);
+}
+@font-face {
+	font-family: "PolySansNeutral";
+	src: url(./fonts/PolySansNeutral.ttf);
+}
+@font-face {
+	font-family: "PolySansNeutralWide";
+	src: url(./fonts/PolySansNeutralWide.ttf);
+}
+@font-face {
+	font-family: "PolySansSlimWideItalic";
+	src: url(./fonts/PolySansSlimWideItalic.ttf);
+}
+@font-face {
+	font-family: "StretchPro";
+	src: url(./fonts/StretchPro.otf);
+}
+
+/* * {
+  outline: solid rgb(0, 5, 0);
+  background-color: rgb(177, 250, 177);
+} */
+
+.nupsglogo {
+	width: 6vw;
+	/* margin-left: 4rem; */
+}
+.navBar {
+	margin-bottom: 0 !important;
+	--bs-bg-opacity: 0 !important;
+}
+button {
+	font-size: 2vw !important;
+	padding: 0.2vw 1vw !important;
+	border-radius: 0 !important;
+}
+a {
+	font-family: "PolySansNeutral";
+}
+.navItem {
+	margin-left: 3rem;
+}
+.background {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: rgba(0, 0, 0, 0.2) url("/moderatorVisit.jpg");
+	background-size: cover;
+	height: 55vw;
+	margin-top: 0;
+	background-position: bottom;
+	color: #1b1e40;
+}
+
+h1 {
+	font-family: "StretchPro";
+	font-size: 7.6vw !important;
+	text-align: center;
+}
+h2 {
+	font-family: "PolySansBulkyWide";
+	font-size: 4.5vw !important;
+	color: #1626b4 !important;
+	text-align: center;
+}
+.underlineText {
+	margin-right: 24vw;
+}
+h4 {
+	font-family: "PolySansNeutralWide";
+}
+h6 {
+	font-family: "Flanella";
+	font-size: 7.6vw !important;
+	margin: -0.7vw !important;
+	line-height: 0px;
+}
+
+.textContainer {
+	text-align: center;
+}
+
+.textContainer h2 span {
+	border-top: 0.4vw solid;
+	margin-left: 21vw;
+	color: black;
+}
+.devotion {
+	color: white;
+	background-color: black;
+	margin: 0 !important;
+}
+.devotion h1 {
+	font-size: 1.8vw !important;
+	padding: 0.9rem !important;
+	margin: 0;
+}
+.devotion h5 {
+	font-size: 1.8vw !important;
+	padding: 0.9rem !important;
+	margin: 0;
+	font-family: "PolySansSlimWideItalic";
+	text-align: center;
+}
+h2 span {
+	color: black;
+}
+.sectionTwo {
+	background-image: url("/handingOver.jpg");
+	background-size: cover;
+	height: 55vw;
+	background-position: bottom;
+}
+.sectionFour {
+	background-image: url("/subgroups.png");
+}
+.sectionThree {
+	background-image: url("/family.jpg");
+}
+.sectionTwo img {
+	width: 9vw;
+	position: absolute;
+}
+.subgroupTitle {
+	display: flex;
+}
+.sectionTwo .worshipWithUs {
+	width: 61vw;
+	margin: auto;
+	padding: 1.5vw;
+}
+.sectionTwo img:nth-child(2) {
+	width: 9vw;
+	position: absolute;
+	right: 0;
+}
+.tagline {
+	display: flex;
+	position: relative;
+	justify-content: center;
+}
+.tagline img {
+	width: 2.5vw;
+}
+
+#temp {
+	margin: auto;
+	/* border: solid 3px; */
+	border-radius: 1rem;
+	width: 40%;
+	height: 59%;
+	background-image: url("/venue.png");
+	background-size: cover;
+}
+.iconContainer {
+	display: flex;
+	position: absolute;
+	right: 3%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.counselling {
+	padding: 8vw 0vw 8vw 0vw;
+}
+.sectionThree {
+	display: flex;
+}
+
+.imageCol img {
+	max-width: 100%;
+	height: auto;
+}
+.imageCol h2 {
+	font-size: 3.5vw !important;
+}
+.imageCol h4 {
+	font-size: 1.4vw !important;
+	text-align: center;
+}
+.imageCol {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.footerImages {
+  display: flex;
+  gap: 2vw;
+}
+.footer {
+  background: #00109F;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1vw;
+  padding: 1vw;
+}
+.footer h4{
+  font-size: 1.6vw;
+}
+.footer h4 span{
+  font-size: 1vw;
+}

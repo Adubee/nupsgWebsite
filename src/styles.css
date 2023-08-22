@@ -1,0 +1,52 @@
+.customContainer h1 {
+	font-family: "PolySansNeutralWide";
+	font-size: 3.9vw !important;
+	text-align: left;
+	border-bottom: 0.3vw solid;
+	box-sizing: border-box;
+	display: inline-block;
+	padding: 0.6vw;
+}
+
+.customContainer h2 {
+	font-family: "PolySansNeutralWide";
+	font-size: 2vw !important;
+	text-align: left;
+	color: black !important;
+}
+
+.customContainer h3 {
+	font-family: "PolySansNeutralWide";
+	font-size: 1.8vw !important;
+	margin-top: 1.5vw;
+	margin-bottom: 0;
+}
+.customContainer {
+	max-width: 95vw !important;
+	padding-top: 5vw;
+}
+.imageContainer {
+	margin: auto;
+}
+.imageContainer img {
+	width: 100%;
+}
+
+.customContainer span {
+	font-family: "PolySansNeutralWide";
+	font-size: 1.8vw;
+}
+
+.bottomFix {
+	margin-top: 6vw;
+}
+.meetingDays {
+	text-align: center;
+	margin-top: 3vw;
+}
+.hallStyles {
+	text-align: right;
+}
+.hallStyles h2 {
+	text-align: right;
+}

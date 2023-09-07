@@ -6,7 +6,7 @@ const coreExecutiveData = [
 			level: "500",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/president.jpg",
 		},
 		vice: {
 			title: "Vice President",
@@ -14,7 +14,7 @@ const coreExecutiveData = [
 			level: "400",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/vice.jpg",
 		},
 		gsec: {
 			title: "General Secretary",
@@ -22,7 +22,7 @@ const coreExecutiveData = [
 			level: "400",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/gsec.jpg",
 		},
 		agsec: {
 			title: "Vice General Secretary",
@@ -30,7 +30,7 @@ const coreExecutiveData = [
 			level: "300",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/agsec.jpg",
 		},
 		welfare: {
 			title: "Welfare Secretary",
@@ -70,7 +70,7 @@ const coreExecutiveData = [
 			level: "400",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/fina.jpg",
 		},
 		treasurer: {
 			title: "Treasurer",
@@ -86,7 +86,7 @@ const coreExecutiveData = [
 			level: "600",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/advisor.jpg",
 		},
 		cordi: {
 			title: "Schools' Coordinator",
@@ -102,7 +102,7 @@ const coreExecutiveData = [
 			level: "Completed",
 			mainPortfolio: "Name",
 			assistantPortfolio: "Level of Study",
-			image: "/.jpg",
+			image: "/alumni.jpg",
 		},
 	},
 ];

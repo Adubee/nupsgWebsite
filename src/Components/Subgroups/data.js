@@ -94,7 +94,7 @@ const subgroups = [
       // assistantPortfolio2: 'Vice President',
       // colon: ':',
 			description:
-				`The singing band is a sub group or wing is the Union which ministers to man and God. It does so using the local instruments and local songs which are tune to the word and will of God. It’s made up of mainly four parts; soprano, alto, tenor and bass. The singing band in collaboration with other ministering groups perform at annual song programs organized by the Union to raise funds and spread the word of God through song, they also perform Mass Evangelisms in collaboration with the Evangelism Team.
+				`The singing band is a sub group under the Union which ministers to Men and God. It does so using the local instruments and local songs which are tune to the word and will of God. It’s made up of mainly four parts; soprano, alto, tenor and bass. The Singing Band in collaboration with other ministering groups perform at annual song programs organized by the Union to raise funds and spread the word of God through song, they also perform Mass Evangelisms in collaboration with the Evangelism Team.
         `,
 			image: "/singingBand.jpg",
 			slogan: "Yonkodo",
@@ -186,7 +186,7 @@ const subgroups = [
 			],
 		},
 		pcc: {
-			title: "Presbyterian Schools' Coordinators",
+			title: "Presbyterian Coordinators Committee",
 			president: "Daniella Serwaa Frimpong",
 			vicePresident: "Lyanne Niney Awatey",
 			vicePresident2: "Emmanuel Kumi",
@@ -195,13 +195,16 @@ const subgroups = [
       assistantPortfolio2: 'Schools\' Coordinator III',
       colon: ':',
 			description:
-				`Technical team is a subgroup of NUPS-G UG Local. The group is in charge of providing sound for the NUPS-G activities, taking pictures, projections during services, livestreaming and handling the union's official social media accounts. The Technical Team also provides provision of Sound and Media Training  The Technical Team also organizes subgroup meeting to Undertake spiritual, ecumenical and social development in members. We meet for set-up and set down for any Church service when the need be. We're a team and a family
+				`The Presbyterian Coordinators Committee (PCC) is the subgroup in NUPS-G UG Local charged to oversee the activities of NUPS-G in the sub coordinating branches and coordinated branch posts within the University of Ghana Coordinating Branch (UGCB) i.e. Greater Accra, Volta and some parts of the Eastern region. 
+				The committee is constitutionally mandated to ensure the welfare and growth of already existing NUPS-G branches in the UGCB and establish NUPS-G in tertiary and second cycle institutions where NUPS-G doesn't currently exist.
+				PCC is made up of the UGCB schools' coordinators, all executives of NUPS-G UG local and members of the subgroup.
+				These members fulfill their mandate by paying regular visits to their designated schools. Their roles in these institutions is to serve as ministers who are tasked to cater for the souls put into their care. These visits coupled with ministerial duties are termed as coordination.
         `,
 			image: "/pcc.jpg",
-			slogan: "Workers ooo",
-			slogan2: "In the vineyard",
+			slogan: "PCC",
+			slogan2: "Never give up!",
 			meetingDays: [
-				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
+				{ day: "Tuesday", time: "7:00pm", venue: "Volta Hall Chapel" },
 			],
 		},
 		ushering: {

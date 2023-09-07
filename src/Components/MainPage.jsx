@@ -30,7 +30,7 @@ function MainPage() {
 				<img src="/presby.png" alt="" />
 				<div className="worshipWithUs">
 					<h2>
-						Worship <span> with us every</span> Thursday <span>&</span> Sunday
+						Worship <span> with us every</span> Sunday
 					</h2>
 				</div>
 

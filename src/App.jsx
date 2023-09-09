@@ -60,6 +60,7 @@ function App() {
 			<Route path="/advisor" element={<CoreExecutives data={coreExecutiveData[0].advisor}/>}/>
 			<Route path="/cordi" element={<CoreExecutives data={coreExecutiveData[0].cordi}/>}/>
 			<Route path="/alumni" element={<CoreExecutives data={coreExecutiveData[0].alumni}/>}/>
+			<Route path="/prayor" element={<CoreExecutives data={coreExecutiveData[0].prayor}/>}/>
 
 
 			<Route path="/doz" element={<Wings data={wingsData[0].doz}/>}/>

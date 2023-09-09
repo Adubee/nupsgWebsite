@@ -64,6 +64,9 @@ function NavBar() {
 									<NavDropdown.Item as={Link} to="/treasurer">
 										Treasurer
 									</NavDropdown.Item>
+									<NavDropdown.Item as={Link} to="/prayor">
+										Prayer Secretary
+									</NavDropdown.Item>
 									<NavDropdown.Item as={Link} to="/organa">
 										Organizing Secretary
 									</NavDropdown.Item>

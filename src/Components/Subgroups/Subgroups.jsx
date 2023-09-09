@@ -2,8 +2,7 @@ import NavBar from '../NavBar';
 import { Container, Row, Col } from 'react-bootstrap';
 import '../../styles.css';
 import Slogan from '../Slogan';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
-import 'react-lazy-load-image-component/src/effects/blur.css';
+
 
 function Subgroups({ data }) {
 	const meetingElements = data.meetingDays.map((meeting, index) => (
@@ -39,7 +38,7 @@ function Subgroups({ data }) {
 					<Col xs={12} md={12} lg={6}>
 						{' '}
 						<div className="imageContainer">
-							<LazyLoadImage src={data.image + '.jpg'} className='lazy-image' placeholderSrc={data.image + '.jpg'} effect='blur' alt="" />
+							<img src={data.image + '.jpg'}  alt="" />
 						</div>
 					</Col>
 				</Row>

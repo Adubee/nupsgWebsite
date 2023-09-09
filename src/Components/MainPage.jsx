@@ -2,8 +2,6 @@ import Footer from "./Footer";
 import NavBar from "./NavBar";
 import Slogan from "./Slogan";
 import '../App.css'
-import { LazyLoadImage } from 'react-lazy-load-image-component';
-import 'react-lazy-load-image-component/src/effects/blur.css';
 import { Col, Row, Container } from "react-bootstrap";
 
 function MainPage() {
@@ -28,8 +26,8 @@ function MainPage() {
 			</div>
 
 			<div className="sectionTwo">
-				<LazyLoadImage effect="blur" src="/nupsglogo.png" alt="" />
-				<LazyLoadImage effect="blur" src="/presby.png" alt="" />
+				<img loading="lazy" src="/nupsglogo.png" alt="" />
+				<img loading="lazy" src="/presby.png" alt="" />
 				<div className="worshipWithUs">
 					<h2>
 						Worship <span> with us every</span> Sunday
@@ -55,7 +53,7 @@ function MainPage() {
 			<Container>
 				<Row className="counselling">
 					<Col className="imageCol" xs={12} md={6}>
-						<LazyLoadImage effect="blur" src="/counselling.png" alt="" />
+						<img loading="lazy" src="/counselling.png" alt="" />
 					</Col>
 					<Col className="imageCol" xs={12} md={6}>
 						<div>
@@ -71,8 +69,8 @@ function MainPage() {
 			</Container>
 
 			<div className="sectionTwo sectionThree">
-				<LazyLoadImage effect="blur" src="/nupsglogo.png" alt="" />
-				<LazyLoadImage effect="blur" src="/presby.png" alt="" />
+				<img loading="lazy" src="/nupsglogo.png" alt="" />
+				<img loading="lazy" src="/presby.png" alt="" />
 				<div className="worshipWithUs">
 					<h2>
 						<span> A</span> family{" "}
@@ -96,7 +94,7 @@ function MainPage() {
 						</div>
 					</Col>
 					<Col className="imageCol" xs={12} md={6}>
-						<LazyLoadImage effect="blur" src="/welfare.png" alt="" />
+						<img loading="lazy" src="/welfare.png" alt="" />
 					</Col>
 				</Row>
 			</Container>

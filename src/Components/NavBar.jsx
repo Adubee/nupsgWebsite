@@ -37,7 +37,7 @@ function NavBar() {
 							</Offcanvas.Title>
 						</Offcanvas.Header>
 						<Offcanvas.Body>
-							<Nav className="justify-content-end flex-grow-1 pe-3">
+							<Nav className="justify-content-end flex-grow-1 pe-3"> 
 								<NavDropdown
 									title="Core Executives"
 									id={`offcanvasNavbarDropdown-expand-lg`}

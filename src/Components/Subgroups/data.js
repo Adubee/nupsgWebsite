@@ -11,7 +11,7 @@ const subgroups = [
       // colon: ':',
 			description:
 				`Kingdom Minstrels is a wonderful subgroup, Spirit ministering group and a family under the NUPS-G UG local. We minister God's heart to the people through Holy Spirit inspired sounds. We believe that God chose us for this purpose and our whole existence is to live out that purpose.`,
-			image: "/km.jpg",
+			image: "/km",
 			slogan: "Minstrels ooo",
 			slogan2: "For God's glory",
 			meetingDays: [
@@ -32,7 +32,7 @@ const subgroups = [
 				`“But we have this treasure in Jars of Clay to show that this all-surpassing power is from God and not from us.” 2 Corinthians 4:7 NIV.
 				Jars of clay (JOC) is one of the four ministering groups in NUPS-G, UG local called to spread God’s message and to win souls for His Kingdom. This family ministers God's Word through choreography, afro dance, worship and mime, drama, spoken word and all forms of theatre.
 				`,
-			image: "/joc.jpg",
+			image: "/joc",
 			slogan: "JOC ooo",
 			slogan2: "(Spread the Gospel) STG ooo",
 			meetingDays: [
@@ -51,7 +51,7 @@ const subgroups = [
       // colon: ':',
 			description:
 				`The Evangelism team plans Outreach programmes which are tuned with evangelism, they offer training and provision of resources to help the NUPS-G member effectively share the Gospel, in collaboration with the Counselling and Visitation Team we are welcome new members into the Union.`,
-			image: "/evangelism.jpg",
+			image: "/evangelism",
 			slogan: "Wiseman",
 			slogan2: "Win a soul",
 			meetingDays: [
@@ -75,7 +75,7 @@ const subgroups = [
         hymn and processional hymn the choir in doing these activities lead the congregants in singing these
         songs. The Choir director as well liaise with various halls to do hymnal study with members. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
         `,
-			image: "/levites.jpg",
+			image: "/levites",
 			slogan: "Levites ooo",
 			slogan2: "Vessels of God",
 			meetingDays: [
@@ -96,7 +96,7 @@ const subgroups = [
 			description:
 				`The singing band is a sub group under the Union which ministers to Men and God. It does so using the local instruments and local songs which are tune to the word and will of God. It’s made up of mainly four parts; soprano, alto, tenor and bass. The Singing Band in collaboration with other ministering groups perform at annual song programs organized by the Union to raise funds and spread the word of God through song, they also perform Mass Evangelisms in collaboration with the Evangelism Team.
         `,
-			image: "/singingBand.jpg",
+			image: "/singingBand",
 			slogan: "Yonkodo",
 			slogan2: "Biakoy3",
 			meetingDays: [
@@ -117,7 +117,7 @@ const subgroups = [
 			description:
 				`The Counseling and Visitation Team, CVT, is a subgroup charged, mainly, with the responsibility of visiting church members on weekly basis, welcoming and checking up on first time worshippers, and as well responsible for the union's Discipleship and Mentorship Program.
         `,
-			image: "/counselling.jpg",
+			image: "/counselling",
 			slogan: "",
 			slogan2: "Biakoy3",
 			meetingDays: [
@@ -136,7 +136,7 @@ const subgroups = [
 			description:
 				`The Transport Department subgroup in the union made up of licensed student drivers who are responsible for conveying members to and from their various halls and hostels to the place of worship. The Transport Department is also in charge of maintenance of the vehicle, it’s repairs and also neatness. This department has Transport Officers who either drive or coordinate in order to make busing of the members easier
         `,
-			image: "/transport.jpg",
+			image: "/transport",
 			slogan: "Transport ooo",
 			slogan2: "Arise and Eat",
 			meetingDays: [
@@ -159,7 +159,7 @@ const subgroups = [
 				Also, the Bible Study Team as part of its activities, mainly, leads the church in Bible Studies at specific designated times on Sundays and sometimes at our Midweek services.
 				The Team also organizes semesterly programs like retreats, to build up the spiritual capacity of its members and the Union at large.
         `,
-			image: "/bibleStudy.jpg",
+			image: "/bibleStudy",
 			slogan: "Study ooo",
 			slogan2: "....",
 			meetingDays: [
@@ -178,7 +178,7 @@ const subgroups = [
 			description:
 				`Technical team is a subgroup of NUPS-G UG Local. The group is in charge of providing sound for the NUPS-G activities, taking pictures, projections during services, livestreaming and handling the union's official social media accounts. The Technical Team also provides provision of Sound and Media Training  The Technical Team also organizes subgroup meeting to Undertake spiritual, ecumenical and social development in members. We meet for set-up and set down for any Church service when the need be. We're a team and a family
         `,
-			image: "/technical.jpg",
+			image: "/technical",
 			slogan: "Workers ooo",
 			slogan2: "In the vineyard",
 			meetingDays: [
@@ -200,7 +200,7 @@ const subgroups = [
 				PCC is made up of the UGCB schools' coordinators, all executives of NUPS-G UG local and members of the subgroup.
 				These members fulfill their mandate by paying regular visits to their designated schools. Their roles in these institutions is to serve as ministers who are tasked to cater for the souls put into their care. These visits coupled with ministerial duties are termed as coordination.
         `,
-			image: "/pcc.jpg",
+			image: "/pcc",
 			slogan: "PCC",
 			slogan2: "Never give up!",
 			meetingDays: [
@@ -219,7 +219,7 @@ const subgroups = [
 			description:
 				`The NUPSG UG local ushering team is a group of well groomed, respectful, polite and friendly individuals who are in charge of the smooth running of services and programs. We create an atmosphere of orderliness and friendliness during activities. We seek to ensure the comfortability and safety of individuals and their belongings when they attend church services and programs. We also attend to members who may need assistance during services.
         `,
-			image: "/usheringTeam.jpg",
+			image: "/usheringTeam",
 			slogan: "Ushers ooo",
 			slogan2: "Service to God.",
 			meetingDays: [
@@ -243,7 +243,7 @@ const subgroups = [
         hymn and processional hymn the choir in doing these activities lead the congregants in singing these
         songs. The Choir director as well liaise with various halls to do hymnal study with members. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
         `,
-			image: "/levites.jpg",
+			image: "/levites",
 			slogan: "Prayer ooo",
 			slogan2: "By the word we faint not.",
 			meetingDays: [

@@ -1,16 +1,16 @@
-import NavBar from "../NavBar";
-
-import { Container, Row, Col } from "react-bootstrap";
-import "../../styles.css";
-import Slogan from "../Slogan";
+import NavBar from '../NavBar';
+import { Container, Row, Col } from 'react-bootstrap';
+import '../../styles.css';
+import Slogan from '../Slogan';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 function Subgroups({ data }) {
-
-
 	const meetingElements = data.meetingDays.map((meeting, index) => (
-		<h3 key={index}>{meeting.day} - {meeting.time}, {meeting.venue}</h3>
-	))
-
+		<h3 key={index}>
+			{meeting.day} - {meeting.time}, {meeting.venue}
+		</h3>
+	));
 
 	return (
 		<>
@@ -18,12 +18,18 @@ function Subgroups({ data }) {
 			<Container className="customContainer ">
 				<Row>
 					<Col xs={12} md={12} lg={6}>
-						{" "}
+						{' '}
 						<div>
 							<h1>{data.title}</h1>
-							<h2>{data.mainPortfolio}: {data.president} </h2>
-							<h2>{data.assistantPortfolio}: {data.vicePresident}</h2>
-							<h2>{data.assistantPortfolio2} {data.colon} {data.vicePresident2}</h2>
+							<h2>
+								{data.mainPortfolio}: {data.president}{' '}
+							</h2>
+							<h2>
+								{data.assistantPortfolio}: {data.vicePresident}
+							</h2>
+							<h2>
+								{data.assistantPortfolio2} {data.colon} {data.vicePresident2}
+							</h2>
 
 							<h3>{data.description}</h3>
 							<h3>{data.slogan}</h3>
@@ -31,9 +37,9 @@ function Subgroups({ data }) {
 						</div>
 					</Col>
 					<Col xs={12} md={12} lg={6}>
-						{" "}
+						{' '}
 						<div className="imageContainer">
-							<img src={data.image} alt="" />
+							<LazyLoadImage src={data.image + '.jpg'} className='lazy-image' placeholderSrc={data.image + '.jpg'} effect='blur' alt="" />
 						</div>
 					</Col>
 				</Row>

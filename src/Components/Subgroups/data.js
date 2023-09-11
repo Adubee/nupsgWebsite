@@ -118,8 +118,8 @@ const subgroups = [
 				`The Counseling and Visitation Team, CVT, is a subgroup charged, mainly, with the responsibility of visiting church members on weekly basis, welcoming and checking up on first time worshippers, and as well responsible for the union's Discipleship and Mentorship Program.
         `,
 			image: "/counselling",
-			slogan: "",
-			slogan2: "Biakoy3",
+			slogan: "In Christ",
+			slogan2: "We Counsel",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
 			],

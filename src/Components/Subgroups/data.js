@@ -243,7 +243,7 @@ const subgroups = [
         hymn and processional hymn the choir in doing these activities lead the congregants in singing these
         songs. The Choir director as well liaise with various halls to do hymnal study with members. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
         `,
-			image: "/levites",
+			image: "/prayerTeam",
 			slogan: "Prayer ooo",
 			slogan2: "By the word we faint not.",
 			meetingDays: [

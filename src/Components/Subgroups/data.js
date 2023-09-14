@@ -241,7 +241,7 @@ const subgroups = [
         During the singing of the hymns like the
         opening hymn, sermon hymn, hymn of trust, sermon hymn, offertory hymn, closing hymn, recessional
         hymn and processional hymn the choir in doing these activities lead the congregants in singing these
-        songs. The Choir director as well liaise with various halls to do hymnal study with members. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
+        songs. The Choir director in-collaboration with other Halls and Subgroups learn hymns. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
         `,
 			image: "/prayerTeam",
 			slogan: "Prayer ooo",

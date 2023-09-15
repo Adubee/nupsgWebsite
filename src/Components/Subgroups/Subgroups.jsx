@@ -31,8 +31,8 @@ function Subgroups({ data }) {
 							</h2>
 
 							<h3>{data.description}</h3>
-							<h3>{data.slogan}</h3>
-							<span>{data.slogan2}</span>
+							<h3 id='slogan top'>{data.slogan}</h3>
+							<h3 id='slogan'>{data.slogan2}</h3>
 						</div>
 					</Col>
 					<Col xs={12} md={12} lg={6}>

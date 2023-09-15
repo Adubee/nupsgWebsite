@@ -12,8 +12,8 @@ const subgroups = [
 			description:
 				`Kingdom Minstrels is a wonderful subgroup, Spirit ministering group and a family under the NUPS-G UG local. We minister God's heart to the people through Holy Spirit inspired sounds. We believe that God chose us for this purpose and our whole existence is to live out that purpose.`,
 			image: "/km",
-			slogan: "Minstrels ooo",
-			slogan2: "For God's glory",
+			slogan: "• Minstrels ooo",
+			slogan2: "• For God's glory",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Athletic Oval" },
 				{ day: "Saturday", time: "8:00pm", venue: "Akuafo Hall Chapel" },
@@ -33,8 +33,8 @@ const subgroups = [
 				Jars of clay (JOC) is one of the four ministering groups in NUPS-G, UG local called to spread God’s message and to win souls for His Kingdom. This family ministers God's Word through choreography, afro dance, worship and mime, drama, spoken word and all forms of theatre.
 				`,
 			image: "/joc",
-			slogan: "JOC ooo",
-			slogan2: "(Spread the Gospel) STG ooo",
+			slogan: "• JOC ooo",
+			slogan2: "• (Spread the Gospel) STG ooo",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Opposite Chemistry Department" },
 				{ day: "Friday", time: "7:00pm", venue: "Opposite Chemistry Department" },
@@ -52,8 +52,8 @@ const subgroups = [
 			description:
 				`The Evangelism team plans Outreach programmes which are tuned with evangelism, they offer training and provision of resources to help the NUPS-G member effectively share the Gospel, in collaboration with the Counselling and Visitation Team we are welcome new members into the Union.`,
 			image: "/evangelism",
-			slogan: "Wiseman",
-			slogan2: "Win a soul",
+			slogan: "• Wiseman",
+			slogan2: "• Win a soul",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:30pm", venue: "Central Cafeteria" },
 			],
@@ -76,8 +76,8 @@ const subgroups = [
         songs. The Choir director as well liaise with various halls to do hymnal study with members. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
         `,
 			image: "/levites",
-			slogan: "Levites ooo",
-			slogan2: "Vessels of God",
+			slogan: "• Levites ooo",
+			slogan2: "• Vessels of God",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
 				{ day: "Friday", time: "7:00pm", venue: "Athletic Oval" },
@@ -97,8 +97,8 @@ const subgroups = [
 				`The singing band is a sub group under the Union which ministers to Men and God. It does so using the local instruments and local songs which are tune to the word and will of God. It’s made up of mainly four parts; soprano, alto, tenor and bass. The Singing Band in collaboration with other ministering groups perform at annual song programs organized by the Union to raise funds and spread the word of God through song, they also perform Mass Evangelisms in collaboration with the Evangelism Team.
         `,
 			image: "/singingBand",
-			slogan: "Yonkodo",
-			slogan2: "Biakoy3",
+			slogan: "• Yonkodo",
+			slogan2: "• Biakoy3",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
 				{ day: "Friday", time: "7:00pm", venue: "Central Cafeteria" },
@@ -118,8 +118,8 @@ const subgroups = [
 				`The Counseling and Visitation Team, CVT, is a subgroup charged, mainly, with the responsibility of visiting church members on weekly basis, welcoming and checking up on first time worshippers, and as well responsible for the union's Discipleship and Mentorship Program.
         `,
 			image: "/counselling",
-			slogan: "In Christ",
-			slogan2: "We Counsel",
+			slogan: "• In Christ",
+			slogan2: "• We Counsel",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
 			],
@@ -137,8 +137,8 @@ const subgroups = [
 				`The Transport Department subgroup in the union made up of licensed student drivers who are responsible for conveying members to and from their various halls and hostels to the place of worship. The Transport Department is also in charge of maintenance of the vehicle, it’s repairs and also neatness. This department has Transport Officers who either drive or coordinate in order to make busing of the members easier
         `,
 			image: "/transport",
-			slogan: "Transport ooo",
-			slogan2: "Arise and Eat",
+			slogan: "• Transport ooo",
+			slogan2: "• Arise and Eat",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
 				{ day: "Friday", time: "3:00pm", venue: "Lizalex" },
@@ -160,8 +160,8 @@ const subgroups = [
 				The Team also organizes semesterly programs like retreats, to build up the spiritual capacity of its members and the Union at large.
         `,
 			image: "/bibleStudy",
-			slogan: "Study ooo",
-			slogan2: "....",
+			slogan: "• Study ooo",
+			slogan2: "• To stay connected",
 			meetingDays: [
 				{ day: "Saturday", time: "4:00pm", venue: "Under the Central Cafeteria staircase" },
 			],
@@ -179,8 +179,8 @@ const subgroups = [
 				`Technical team is a subgroup of NUPS-G UG Local. The group is in charge of providing sound for the NUPS-G activities, taking pictures, projections during services, livestreaming and handling the union's official social media accounts. The Technical Team also provides provision of Sound and Media Training  The Technical Team also organizes subgroup meeting to Undertake spiritual, ecumenical and social development in members. We meet for set-up and set down for any Church service when the need be. We're a team and a family
         `,
 			image: "/technical",
-			slogan: "Workers ooo",
-			slogan2: "In the vineyard",
+			slogan: "• Workers ooo",
+			slogan2: "• In the vineyard",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Central Cafeteria" },
 			],
@@ -201,8 +201,8 @@ const subgroups = [
 				These members fulfill their mandate by paying regular visits to their designated schools. Their roles in these institutions is to serve as ministers who are tasked to cater for the souls put into their care. These visits coupled with ministerial duties are termed as coordination.
         `,
 			image: "/pcc",
-			slogan: "PCC",
-			slogan2: "Never give up!",
+			slogan: "• PCC",
+			slogan2: "• Never give up!",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Volta Hall Chapel" },
 			],
@@ -220,8 +220,8 @@ const subgroups = [
 				`The NUPSG UG local ushering team is a group of well groomed, respectful, polite and friendly individuals who are in charge of the smooth running of services and programs. We create an atmosphere of orderliness and friendliness during activities. We seek to ensure the comfortability and safety of individuals and their belongings when they attend church services and programs. We also attend to members who may need assistance during services.
         `,
 			image: "/usheringTeam",
-			slogan: "Ushers ooo",
-			slogan2: "Service to God.",
+			slogan: "• Ushers ooo",
+			slogan2: "• Service to God.",
 			meetingDays: [
 				{ day: "Tuesday", time: "7:00pm", venue: "Athletic Oval" },
 			],
@@ -236,16 +236,11 @@ const subgroups = [
       // assistantPortfolio2: 'Vice President',
       // colon: ':',
 			description:
-				`Levites Choir that plays a major role in the liturgy  of the union. Levites Choir
-        are responsible for  playing hymns, as well as occasional hymnal study  liased with Subgroups and Halls.
-        During the singing of the hymns like the
-        opening hymn, sermon hymn, hymn of trust, sermon hymn, offertory hymn, closing hymn, recessional
-        hymn and processional hymn the choir in doing these activities lead the congregants in singing these
-        songs. The Choir director in-collaboration with other Halls and Subgroups learn hymns. In collaboration with the Singing Band we also engage in mass evangelism were we evangelize to people alongside with singing songs of praise and adoration.
+				`Luke 18:1 “Then Jesus told his disciples a parable to show them that they should always pray and not give up”.  Proseuche and Aphesis is the Greek word for Prayer and Deliverance which emphasizes on deep interaction with God and exiling from bondage. We are the watchman and the eye of the noble union NUPS-G (UG Local). We stand in prayers for the union, the leaders and the members as a whole after after NSIP, church service and usual meetings, we side all our prayers with the Bible studies. 
         `,
 			image: "/prayerTeam",
-			slogan: "Prayer ooo",
-			slogan2: "By the word we faint not.",
+			slogan: "•	Prayer and deliverance",
+			slogan2: "• By the word we faint not.",
 			meetingDays: [
 				{ day: "Tuesday", time: "8:30pm", venue: "Athletic Oval" },
 			],

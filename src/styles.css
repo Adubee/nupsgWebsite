@@ -36,7 +36,12 @@
 	width: 100%;
 }
 
-
+#slogan{
+	margin: 0;
+} 
+#top{
+	margin-top: 1vw;
+}
 .customContainer span {
 	font-family: "PolySansNeutralWide";
 	font-size: 1.8vw;
